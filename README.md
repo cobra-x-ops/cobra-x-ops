@@ -1,58 +1,68 @@
-# 👋 Hi, I'm Yahya (cobra-x-ops)
+# 👋 Hello World, I'm Yahya El Bellarh
 
-### 🚀 Full-Stack Developer | Cybersecurity Enthusiast | 3D Web Pioneer
+### 🚀 Full-Stack Developer | React, Next.js & Supabase | Founder @ YB Digital Agency
 
-I build high-performance, secure, and visually stunning digital ecosystems. My approach combines the precision of **Cybersecurity** with the fluid aesthetics of **Modern Web Development**.
-
----
-
-## 🛠️ Technological Arsenal
-
-### 🌐 Frontend Mastery
-![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Three.js](https://img.shields.io/badge/Three.js-R3F-white?style=for-the-badge&logo=three.js&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animations-purple?style=for-the-badge&logo=framer)
-
-### ⚙️ Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=node.js)
-![Prisma](https://img.shields.io/badge/Prisma-6-2D3748?style=for-the-badge&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase)
-![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker)
-![Redis](https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis)
-
----
-
-## 🏆 Featured Projects
-
-### 🛡️ [COBRA Platform](https://github.com/cobra-x-ops/cobra-platform)
-**High-Performance Cybersecurity SaaS**  
-Automated vulnerability detection and AI-driven security analysis. Built with Next.js 15, Prisma, and BullMQ.
-- _Key Tech: Clerk Auth, Stripe Payments, Sentry, Tailwind 4._
-
-### 🏎️ [Garage Project (Ultra-Pro)](https://github.com/cobra-x-ops/Garage_project)
-**Cinematic Automotive Ecosystem**  
-A high-tech automotive service platform featuring an interactive 3D hero experience and real-time appointment management.
-- _Key Tech: Three.js, React Three Fiber, Supabase Realtime, Framer Motion._
-
----
-
-## 📈 Dev Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cobra-x-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yahya's GitHub Stats" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Tech Stack & Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yahya-el-bellarh)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:yahya.el.bellarh@gmail.com)
+- **Frontend**: Next.js 15, React 19, Tailwind CSS 4, Framer Motion, Three.js
+- **Backend/Database**: Node.js, Supabase, PostgreSQL, Prisma, MongoDB
+- **Security**: ISC2 CC Candidate (Security-First Architecture)
+- **Design**: Figma, Brutalist Aesthetics, Motion UX
+
+---
+
+## ✨ Featured Projects
+
+### 🏥 [PhysioFlow](https://github.com/cobra-x-ops)
+**Premium Healthcare Platform**  
+Built with **Next.js** and **Framer Motion**, featuring cinematic transitions and a high-performance patient management system. Focused on delivering a premium medical experience with ultra-smooth UX.
+
+### 🦷 [Dental Clinic Booking System](https://github.com/cobra-x-ops)
+**High-Performance Appointment Engine**  
+A full-stack solution utilizing **Supabase Realtime** for instant scheduling. Implements secure authentication, role-based access control, and automated notification pipelines.
+
+### 🍬 [Jawharat Al Halawiyat](https://github.com/cobra-x-ops)
+**Cultural E-commerce Discovery**  
+A visually stunning interface celebrating cultural heritage. Built with a focus on modern typography and **responsive storytelling**, optimized for high conversion and immersive browsing.
+
+---
+
+## 🛡️ Security & Reliability
+
+> "Applying a security-first mindset to frontend architecture (ISC2 CC Candidate)."
+
+I treat security as a first-class citizen in every codebase. From role-based access control (RBAC) to input sanitization and secure API orchestration, I ensure your data remains your data.
+
+---
+
+## 📊 GitHub Ecosystem
 
 <p align="center">
-  <i>"Code is poetry. Security is the foundation."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=cobra-x-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yahya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobra-x-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- **LinkedIn**: [yahya-el-bellarh](https://www.linkedin.com/in/yahya-el-bellarh/)
+- **Portfolio**: [cobra-next.vercel.app](https://cobra-next.vercel.app)
+- **Agency**: Founder @ YB Digital Agency
+
+<p align="center">
+  Built with ❤️ and Precision.
 </p>
