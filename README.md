@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Yahya El Bellarh
 
-### 🚀 Full-Stack Developer | React, Next.js & Supabase | Founder @ YB Digital Agency
+### 🚀 Full-Stack Developer | React, Next.js & Supabase | Founder @ ***Digital Agency
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
